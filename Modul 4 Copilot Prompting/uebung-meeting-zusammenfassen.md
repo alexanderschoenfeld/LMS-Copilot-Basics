@@ -19,6 +19,8 @@ Das Lizenz Atelier GmbH & Co. KG
 
 Laden Sie die Datei **[Meeting_Transkript_Beispiel.docx](Meeting_Transkript_Beispiel.docx)** aus dem Workshop-Ordner hoch — oder kopieren Sie ein eigenes Meeting-Transkript direkt in das Eingabefeld.
 
+![Screenshot Upload-Beispiel](../assets/Screenshot%202026-06-27%20160648.png)
+
 ---
 
 ## ITERATION 01 — Erster Versuch
