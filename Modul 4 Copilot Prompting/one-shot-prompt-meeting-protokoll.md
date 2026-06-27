@@ -13,7 +13,7 @@ Es gibt aber Situationen, in denen Iteration nicht möglich oder nicht sinnvoll 
 
 **Wenn ein Agent die Arbeit übernimmt.**
 
-Agenten — also KI-Systeme, die selbstständig Aufgaben ausführen — können kein Gespräch führen. Sie bekommen einen Prompt, führen ihn aus, und liefern ein Ergebnis. Kein Nachfragen, kein Verfeinern, kein zweiter Versuch. Der Prompt muss beim ersten Durchlauf alles enthalten, was die KI braucht: Rolle, Ziel, Format, Regeln, Grenzen.
+Agenten — also KI-Systeme, die selbstständig Aufgaben ausführen — können zwar auch mit sich selbst Gespräche führen - das nennt man dann **Reasoning** oder **Thinking**, aber das ist nicht dasselbe wie menschliche Interaktion und in den Reasoning-Modellen (LLM's) schon vorab trainiert. Typischerweise gibt man einem (einzelnen) Agenten einen Prompt, der führt ihn aus, und liefert ein Ergebnis. Kein Nachfragen (ausser vielleicht internes Reasoning), kein Verfeinern, kein zweiter Versuch. Der Prompt muss beim ersten Durchlauf alles enthalten, was die KI braucht: Rolle, Ziel, Format, Regeln, Grenzen und vorallem den perfekten Output. PS: dieser Output wird dann gern an einen anderen Agenten weitergegeben usw., das nennt man **Chaining** oder einen Multi-Agent-Workflow.
 
 Das ist die Kernidee hinter dem One-Shot Prompt: **ein einziger, vollständig ausgearbeiteter Prompt, der in jedem Durchlauf dasselbe, verlässliche Ergebnis liefert** — unabhängig davon, wer ihn ausführt oder wann.
 
