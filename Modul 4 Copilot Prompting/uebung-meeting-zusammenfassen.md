@@ -17,7 +17,7 @@ Das Lizenz Atelier GmbH & Co. KG
 
 ## Das Transkript
 
-Laden Sie die Datei **`Meeting_Transkript_Beispiel.docx`** aus dem Workshop-Ordner hoch — oder kopieren Sie ein eigenes Meeting-Transkript direkt in das Eingabefeld.
+Laden Sie die Datei **[Meeting_Transkript_Beispiel.docx](Meeting_Transkript_Beispiel.docx)** aus dem Workshop-Ordner hoch — oder kopieren Sie ein eigenes Meeting-Transkript direkt in das Eingabefeld.
 
 ---
 
