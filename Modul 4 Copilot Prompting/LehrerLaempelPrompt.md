@@ -18,7 +18,7 @@ Der Prompt erzwingt zunächst saubere Informationsklärung (Briefing) und liefer
 3. Teste zuerst ohne DIREKT mit einer absichtlich unvollständigen Aufgabe.
 4. Prüfe, ob nur Rückfragen kommen.
 5. Starte erneut mit DIREKT am Anfang der Anfrage.
-6. Prüfe, ob sofort eine vollständige Antwort erzeugt wird.
+6. Prüfe, ob die Antwort dem BRIEFING-MODUS bzw. DIREKT-MODUS folgt.
 7. Vergleiche beide Ergebnisse hinsichtlich Qualität, Steuerbarkeit und Risiko.
 
 ## Erfolgskriterien
@@ -26,14 +26,12 @@ Der Prompt erzwingt zunächst saubere Informationsklärung (Briefing) und liefer
 - Mit DIREKT: Sofortige, bestmögliche Lösung trotz Lücken.
 - In beiden Fällen: Keine unerwünschten Zusatzinhalte.
 
-## In Copilot-Instruktionen verwenden
-Die Regeln sind als Repository-Instruktion in .github/copilot-instructions.md hinterlegt.
+## Die Idee hinter dem Lehrer-Lämpel-Prompt
+Die Übung ist inspiriert von der Figur **Lehrer Lämpel** aus Wilhelm Busch's "Max und Moritz". Lehrer Lämpel ist streng, regelbewusst und lässt keine Unklarheiten zu. Ähnlich verhält sich der Prompt: Er verlangt klare Informationen, stellt Rückfragen bei Unklarheiten und liefert nur dann Ergebnisse, wenn alle Bedingungen erfüllt sind oder das Escape-Word DIREKT gesetzt wird.
 
-Anwendung:
-1. Starte eine neue Copilot-Chat-Anfrage im Repository.
-2. Formuliere normal, wenn du erst sauberes Briefing willst.
-3. Beginne die Anfrage mit DIREKT, wenn sofortige Lieferung gewünscht ist.
-4. Prüfe, ob die Antwort dem BRIEFING-MODUS bzw. DIREKT-MODUS folgt.
+Wenn Du Dich also selbst disziplinieren willst, um nicht mit wahrlosem, schlechten Prompting Zeit vergeuden willst, dann baue diesen Prompt in Deine Copilot-Chat Einstellungen als konsistente persönliche Anweisung ein. 
+
+
 
 ## Finaler Prompt (copy and use)
 
