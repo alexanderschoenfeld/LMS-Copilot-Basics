@@ -13,7 +13,7 @@ Die KI analysiert Anliegen, priorisiert, bewertet Risiken und erstellt einen ers
 ## Vorbereitung
 1. Öffne Copilot Chat.
 2. Stelle sicher, dass die Datei Corporate-Wording-Guideline-allgemein.docx als Wissensquelle verfügbar ist.
-3. Nutze zusätzlich die Teilnahmebedingungen unter https://www.ihk-akademie-muenchen.de/teilnahmebedingungen/.
+3. Nutze zusätzlich die Teilnahmebedingungen "Teilnahme- und Stornobedingungen.docx".
 
 ## Prompt für die Übung (copy and use)
 
@@ -50,7 +50,7 @@ Falls nicht, erläutern Sie höflich, warum das Anliegen nicht erfüllt werden k
 Seien Sie dabei klar und explizit. Erfinden Sie keine möglichen Alternativen, die nicht in den Teilnahmebedingungen der Wissensquelle vorkommen.
 
 WISSENSBASIS:
-- Berücksichtigen Sie passende Informationen von der Website https://www.ihk-akademie-muenchen.de/teilnahmebedingungen/
+- Berücksichtigen Sie passende Informationen aus den "Teilnahme- und Stornobedingungen.docx"
 - Wenden Sie das Dokument Corporate-Wording-Guideline-allgemein.docx verbindlich auf Tonalität, Wortwahl und Formulierungen an.
 - Falls die Corporate-Wording-Guideline nicht verfügbar oder nicht lesbar ist, stellen Sie zuerst eine klare Rückfrage, bevor Sie den Antwortentwurf erstellen.
 
