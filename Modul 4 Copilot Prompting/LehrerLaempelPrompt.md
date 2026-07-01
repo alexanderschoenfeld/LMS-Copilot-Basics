@@ -1,4 +1,4 @@
-<img src="../assets/wilhelm-busch_max-und-moritz_streich-4_zeichnung-00.webp" alt="Lehrer Lämpel" width="180" />
+<img src="../assets/wilhelm-busch_max-und-moritz_streich-4_zeichnung-00.webp" alt="Lehrer Lämpel" width="260" />
 
 # Übung: Lehrer-Lämpel-Prompt (Deterministisch und kontrollierbar)
 
@@ -25,6 +25,15 @@ Der Prompt erzwingt zunächst saubere Informationsklärung (Briefing) und liefer
 - Ohne DIREKT: Nur nummerierte Rückfragen, keine inhaltliche Lösung.
 - Mit DIREKT: Sofortige, bestmögliche Lösung trotz Lücken.
 - In beiden Fällen: Keine unerwünschten Zusatzinhalte.
+
+## In Copilot-Instruktionen verwenden
+Die Regeln sind als Repository-Instruktion in .github/copilot-instructions.md hinterlegt.
+
+Anwendung:
+1. Starte eine neue Copilot-Chat-Anfrage im Repository.
+2. Formuliere normal, wenn du erst sauberes Briefing willst.
+3. Beginne die Anfrage mit DIREKT, wenn sofortige Lieferung gewünscht ist.
+4. Prüfe, ob die Antwort dem BRIEFING-MODUS bzw. DIREKT-MODUS folgt.
 
 ## Finaler Prompt (copy and use)
 
