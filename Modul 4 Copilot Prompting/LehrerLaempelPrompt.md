@@ -1,3 +1,5 @@
+<img src="../assets/wilhelm-busch_max-und-moritz_streich-4_zeichnung-00.webp" alt="Lehrer Lämpel" width="180" />
+
 # Übung: Lehrer-Lämpel-Prompt (Deterministisch und kontrollierbar)
 
 ## Ziel der Übung
