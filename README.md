@@ -6,7 +6,7 @@ Das komplette LMS **Copilot Basics** ist eine umfassende Schulung mit **14 Modul
 
 ## Modul 4: Copilot Prompting
 
-In [Modul 4 Copilot Prompting](Modul%204%20Copilot%20Prompting/) findest du eine Prompting-Übung mit drei Ansätzen:
+In [Modul 4 Copilot Prompting](Modul%204%20Copilot%20Prompting/) findest du eine Prompting-Übung mit vier Ansätzen:
 
 1. **Iterativer Ansatz**
    Ein Meeting-Transkript wird Schritt für Schritt in ein gutes Meeting-Protokoll überführt.
@@ -18,6 +18,9 @@ In [Modul 4 Copilot Prompting](Modul%204%20Copilot%20Prompting/) findest du eine
 
 3. **Lehrer-Laempel-Übung (Deterministischer Kontroll-Prompt)**
    Diese Übung zeigt einen streng regelbasierten Prompt mit fail-safe Verhalten: Entweder werden fehlende Informationen über Rückfragen geklärt oder mit dem Escape-Word **DIREKT** sofort geliefert. Das Ergebnis ist hochgradig kontrollierbar, reproduzierbar und besonders für professionelle Nutzung geeignet. Gleichzeitig lernst du, wie Governance, Qualitätskontrolle und operative Effizienz in einem einzigen Prompt-Design zusammengeführt werden.
+
+4. **E-Mail-Analyse und Antwortentwurf (Kundenservice)**
+   Diese Übung trainiert ein 4-Schritte-Modell zur Analyse eingehender E-Mails und zur Erstellung professioneller Antwortentwürfe. Zusätzlich wird das Dokument **Corporate-Wording-Guideline-allgemein.docx** als verbindliche Sprachgrundlage angewendet.
 
 ## One-Shot Prompt vs. Skill
 
@@ -31,6 +34,7 @@ Der Unterschied liegt also primär im **Nutzungskontext** (Mensch vs. Agent), ni
 ## Direkte Links zu den Übungen
 
 Gehe die Übungen in dieser Reihenfolge durch, um die Unterschiede zwischen iterativem Prompting und One-Shot-Prompting zu erkennen:
-  1. Iterativ: [uebung-meeting-zusammenfassen.md](Modul%204%20Copilot%20Prompting/übung-meeting-zusammenfassen.md)
+   1. Iterativ: [uebung-meeting-zusammenfassen.md](Modul%204%20Copilot%20Prompting/uebung-meeting-zusammenfassen.md)
   2. One-Shot: [one-shot-prompt-meeting-protokoll.md](Modul%204%20Copilot%20Prompting/one-shot-prompt-meeting-protokoll.md)
    3. Deterministisch: [LehrerLaempelPrompt.md](Modul%204%20Copilot%20Prompting/LehrerLaempelPrompt.md)
+   4. Kundenservice: [uebung-email-analyse-antwortentwurf.md](Modul%204%20Copilot%20Prompting/uebung-email-analyse-antwortentwurf.md)

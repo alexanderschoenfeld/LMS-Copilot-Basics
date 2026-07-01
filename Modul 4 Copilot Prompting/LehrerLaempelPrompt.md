@@ -29,7 +29,7 @@ Der Prompt erzwingt zunächst saubere Informationsklärung (Briefing) und liefer
 ## Die Idee hinter dem Lehrer-Lämpel-Prompt
 Die Übung ist inspiriert von der Figur **Lehrer Lämpel** aus Wilhelm Busch's "Max und Moritz". Lehrer Lämpel ist streng, regelbewusst und lässt keine Unklarheiten zu. Ähnlich verhält sich der Prompt: Er verlangt klare Informationen, stellt Rückfragen bei Unklarheiten und liefert nur dann Ergebnisse, wenn alle Bedingungen erfüllt sind oder das Escape-Word DIREKT gesetzt wird.
 
-Wenn Du Dich also selbst disziplinieren willst, um nicht mit wahrlosem, schlechten Prompting Zeit vergeuden willst, dann baue diesen Prompt in Deine Copilot-Chat Einstellungen als konsistente persönliche Anweisung ein. 
+Wenn Du Dich also selbst disziplinieren willst, um nicht mit wahrlosem, schlechten Prompting deine Zeit zu vergeuden, dann baue diesen Prompt in Deine Copilot-Chat Einstellungen als konsistente persönliche Anweisung ein. 
 
 
 
