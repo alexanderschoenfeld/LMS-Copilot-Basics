@@ -6,7 +6,9 @@ Das komplette LMS **Copilot Basics** ist eine umfassende Schulung mit **14 Modul
 
 ## Modul 4: Copilot Prompting
 
-In [Modul 4 Copilot Prompting](Modul%204%20Copilot%20Prompting/) findest du eine Prompting-Übung mit vier Ansätzen:
+In [Modul 4 Copilot Prompting](Modul%204%20Copilot%20Prompting/) findest du mehrere Prompting-Übungen sowie einen Prompt für den ["Prompt Coach"](Modul%204%20Copilot%20Prompting/prompt_coach.md), inspiriert vom gleichnamigen Microsoft prebuilt Copilot Agent.
+
+Die [Copilot-Chat-Anweisung](Modul%204%20Copilot%20Prompting/copilot_chat_anweisung.md) ergänzt diese Übungen um eine persönliche Systemanweisung für alle Unterhaltungen. Sie sorgt für konsistente, lösungsorientierte und direkt nutzbare Antworten und kann in den persönlichen Einstellungen von Copilot Chat hinterlegt werden.
 
 1. **Iterativer Ansatz**
    Ein Meeting-Transkript wird Schritt für Schritt in ein gutes Meeting-Protokoll überführt.
@@ -31,10 +33,12 @@ Inhaltlich ist ein **Skill** nichts anderes als ein sehr gut aufgesetzter One-Sh
 
 Der Unterschied liegt also primär im **Nutzungskontext** (Mensch vs. Agent), nicht im Grundprinzip des Prompts.
 
-## Direkte Links zu den Übungen
+## Direkte Links zu den Übungen und Prompt-Anweisungen
 
 Gehe die Übungen in dieser Reihenfolge durch, um die Unterschiede zwischen iterativem Prompting und One-Shot-Prompting zu erkennen:
    1. Iterativ: [uebung-meeting-zusammenfassen.md](Modul%204%20Copilot%20Prompting/uebung-meeting-zusammenfassen.md)
   2. One-Shot: [one-shot-prompt-meeting-protokoll.md](Modul%204%20Copilot%20Prompting/one-shot-prompt-meeting-protokoll.md)
    3. Deterministisch: [LehrerLaempelPrompt.md](Modul%204%20Copilot%20Prompting/LehrerLaempelPrompt.md)
    4. Kundenservice: [uebung-email-analyse-antwortentwurf.md](Modul%204%20Copilot%20Prompting/uebung-email-analyse-antwortentwurf.md)
+   5. Prompt Coach: [prompt-coach.md](Modul%204%20Copilot%20Prompting/prompt-coach.md)
+   6. Persönliche Copilot-Chat-Anweisung: [copilot_chat_anweisung.md](Modul%204%20Copilot%20Prompting/copilot_chat_anweisung.md)
