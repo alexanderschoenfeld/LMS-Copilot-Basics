@@ -16,12 +16,7 @@ Die KI analysiert Anliegen, priorisiert, bewertet Risiken und erstellt einen ers
 3. Stelle sicher, dass beide Dateien als Wissensquellen verfügbar sind.
 4. Nutze eine eigene Kundenservice-E-Mail oder den Mini-Testfall am Ende dieses Dokuments.
 
-### Dateien von GitHub herunterladen
-
-1. Klicken Sie auf den Link zur jeweiligen DOCX-Datei.
-2. Klicken Sie auf der GitHub-Dateiseite auf **Download raw file** oder auf das Download-Symbol.
-3. Speichern Sie beide Dateien auf Ihrem Computer.
-4. Laden Sie die Dateien anschließend in Copilot Chat hoch oder fügen Sie sie als Wissensquellen hinzu.
+![Screenshot Upload-Beispiel](../assets/Screenshot_download_Corporate-Wording-Guidelines-allgemein.png)
 
 ## Prompt für die Übung (copy and use)
 
