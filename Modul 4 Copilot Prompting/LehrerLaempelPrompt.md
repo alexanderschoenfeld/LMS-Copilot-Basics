@@ -21,6 +21,8 @@ Der Prompt erzwingt zunächst saubere Informationsklärung (Briefing) und liefer
 6. Prüfe, ob die Antwort dem BRIEFING-MODUS bzw. DIREKT-MODUS folgt.
 7. Vergleiche beide Ergebnisse hinsichtlich Qualität, Steuerbarkeit und Risiko.
 
+Für diese Übung wird kein Demo-Dokument benötigt. Verwende einfach die angegebenen Testaufgaben oder eine eigene Aufgabe.
+
 ## Erfolgskriterien
 - Ohne DIREKT: Nur nummerierte Rückfragen, keine inhaltliche Lösung.
 - Mit DIREKT: Sofortige, bestmögliche Lösung trotz Lücken.

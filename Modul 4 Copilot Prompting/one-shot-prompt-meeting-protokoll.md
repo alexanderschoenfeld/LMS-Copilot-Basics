@@ -54,6 +54,15 @@ Die Qualität des One-Shot Prompts bestimmt die Qualität des Skills. Wer einen 
 
 Kopieren Sie den vollständigen Prompt in Ihr KI-Tool. Ersetzen Sie `[TRANSKRIPT EINFÜGEN]` am Ende durch Ihr Transkript — entweder durch direktes Einfügen oder durch Hochladen der Datei und Anpassen des Hinweises.
 
+Für die Übung können Sie das **Demo-Transkript:**  [Meeting_Transkript_Beispiel.docx](Meeting_Transkript_Beispiel.docx) verwenden.
+
+### Demo-Datei von GitHub herunterladen
+
+1. Klicken Sie auf den Link zum Demo-Transkript.
+2. Klicken Sie auf der GitHub-Dateiseite auf **Download raw file** oder auf das Download-Symbol.
+3. Speichern Sie die Word-Datei auf Ihrem Computer.
+4. Laden Sie die gespeicherte Datei in Ihr KI-Tool hoch oder kopieren Sie den Inhalt an die Stelle `[TRANSKRIPT EINFÜGEN]`.
+
 ```
 Du bist ein professioneller Meeting-Protokollant und Projektmanager.
 Analysiere das folgende Meeting-Transkript und erstelle daraus ein sauberes,

@@ -12,8 +12,16 @@ Die KI analysiert Anliegen, priorisiert, bewertet Risiken und erstellt einen ers
 
 ## Vorbereitung
 1. Öffne Copilot Chat.
-2. Stelle sicher, dass die Datei Corporate-Wording-Guideline-allgemein.docx als Wissensquelle verfügbar ist.
-3. Nutze zusätzlich die Teilnahmebedingungen "Teilnahme- und Stornobedingungen.docx".
+2. Lade diese Dateien hier aus dem **GitHub Repository herunter:** [Corporate-Wording-Guideline-allgemein.docx](Corporate-Wording-Guideline-allgemein.docx) und [Teilnahme- und Stornobedingungen.docx](Teilnahme-%20und%20Stornobedingungen.docx) 
+3. Stelle sicher, dass beide Dateien als Wissensquellen verfügbar sind.
+4. Nutze eine eigene Kundenservice-E-Mail oder den Mini-Testfall am Ende dieses Dokuments.
+
+### Dateien von GitHub herunterladen
+
+1. Klicken Sie auf den Link zur jeweiligen DOCX-Datei.
+2. Klicken Sie auf der GitHub-Dateiseite auf **Download raw file** oder auf das Download-Symbol.
+3. Speichern Sie beide Dateien auf Ihrem Computer.
+4. Laden Sie die Dateien anschließend in Copilot Chat hoch oder fügen Sie sie als Wissensquellen hinzu.
 
 ## Prompt für die Übung (copy and use)
 

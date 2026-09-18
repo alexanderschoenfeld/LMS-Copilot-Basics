@@ -10,6 +10,8 @@ In [Modul 4 Copilot Prompting](Modul%204%20Copilot%20Prompting/) findest du mehr
 
 Die [Copilot-Chat-Anweisung](Modul%204%20Copilot%20Prompting/copilot_chat_anweisung.md) ergänzt diese Übungen um eine persönliche Systemanweisung für alle Unterhaltungen. Sie sorgt für konsistente, lösungsorientierte und direkt nutzbare Antworten und kann in den persönlichen Einstellungen von Copilot Chat hinterlegt werden.
 
+#### Die 4 Prompting-Übungen
+
 1. **Iterativer Ansatz**
    Ein Meeting-Transkript wird Schritt für Schritt in ein gutes Meeting-Protokoll überführt.
    Ziel ist zu zeigen, wie man sich interaktiv durch mehrere Prompts an das gewünschte Ergebnis annähert - genau so, wie Menschen typischerweise mit KI arbeiten.

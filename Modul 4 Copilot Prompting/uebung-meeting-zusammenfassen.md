@@ -17,7 +17,14 @@ Das Lizenz Atelier GmbH & Co. KG
 
 ## Das Transkript
 
-Laden Sie die Datei **[Meeting_Transkript_Beispiel.docx](Meeting_Transkript_Beispiel.docx)** aus dem Workshop-Ordner hoch — oder kopieren Sie ein eigenes Meeting-Transkript direkt in das Eingabefeld.
+Für diese Übung benötigen Sie ein Meeting-Transkript. Sie können die Word-Datei **[Meeting_Transkript_Beispiel.docx](Meeting_Transkript_Beispiel.docx)** verwenden oder ein eigenes Meeting-Transkript direkt in das Eingabefeld kopieren.
+
+### Demo-Datei von GitHub herunterladen
+
+1. Klicken Sie auf den Link zur Datei **Meeting_Transkript_Beispiel.docx**.
+2. Klicken Sie auf der GitHub-Dateiseite auf **Download raw file** oder auf das Download-Symbol.
+3. Speichern Sie die Word-Datei auf Ihrem Computer.
+4. Laden Sie die gespeicherte Datei anschließend in Ihrem KI-Tool hoch.
 
 ![Screenshot Upload-Beispiel](../assets/Screenshot%202026-06-27%20160648.png)
 
