@@ -53,4 +53,4 @@ Zusätzliche besondere Prompts:
 
    6. Prompt Coach: [prompt-coach.md](Modul%204%20Copilot%20Prompting/prompt-coach.md)
    7. Persönliche Copilot-Chat-Anweisung: [copilot_chat_anweisung.md](Modul%204%20Copilot%20Prompting/copilot_chat_anweisung.md)
-   8. Skill E-Mail-Beantworter: [skill-email-beantworter.md](Modul%204%20Copilot%20Prompting/skill-email-beantworter.md)
+   8. Agent E-Mail-Beantworter (mit Skill): [agent-email-beantworter.md](Modul%204%20Copilot%20Prompting/agent-email-beantworter.md)
