@@ -42,13 +42,15 @@ Der Unterschied liegt also primär im **Nutzungskontext** (Mensch vs. Agent), ni
 ## Direkte Links zu den Übungen und Prompt-Anweisungen
 
 Gehe die Übungen in dieser Reihenfolge durch, um die Unterschiede zwischen iterativem Prompting und One-Shot-Prompting zu erkennen:
-   **1. Übung** Iterativ: [uebung-meeting-zusammenfassen.md](Modul%204%20Copilot%20Prompting/uebung-meeting-zusammenfassen.md)
-   **2. Übung** One-Shot: [one-shot-prompt-meeting-protokoll.md](Modul%204%20Copilot%20Prompting/one-shot-prompt-meeting-protokoll.md)
-   **3. Übung** Few-Shot: [uebung-few-shot-prompting.md](Modul%204%20Copilot%20Prompting/uebung-few-shot-prompting.md)
-   **4. Übung** Deterministisch (Chain-of-Thought): [LehrerLaempelPrompt.md](Modul%204%20Copilot%20Prompting/LehrerLaempelPrompt.md)
-   **5. Übung** Kundenservice: [uebung-email-analyse-antwortentwurf.md](Modul%204%20Copilot%20Prompting/uebung-email-analyse-antwortentwurf.md)
 
-   Zusätzliche besondere Prompts:
+   1. **Übung** Iterativ: [uebung-meeting-zusammenfassen.md](Modul%204%20Copilot%20Prompting/uebung-meeting-zusammenfassen.md)
+   2. **Übung** One-Shot: [one-shot-prompt-meeting-protokoll.md](Modul%204%20Copilot%20Prompting/one-shot-prompt-meeting-protokoll.md)
+   3. **Übung** Few-Shot: [uebung-few-shot-prompting.md](Modul%204%20Copilot%20Prompting/uebung-few-shot-prompting.md)
+   4. **Übung** Deterministisch (Chain-of-Thought): [LehrerLaempelPrompt.md](Modul%204%20Copilot%20Prompting/LehrerLaempelPrompt.md)
+   5. **Übung** Kundenservice: [uebung-email-analyse-antwortentwurf.md](Modul%204%20Copilot%20Prompting/uebung-email-analyse-antwortentwurf.md)
+
+Zusätzliche besondere Prompts:
+
    6. Prompt Coach: [prompt-coach.md](Modul%204%20Copilot%20Prompting/prompt-coach.md)
    7. Persönliche Copilot-Chat-Anweisung: [copilot_chat_anweisung.md](Modul%204%20Copilot%20Prompting/copilot_chat_anweisung.md)
    8. Skill E-Mail-Beantworter: [skill-email-beantworter.md](Modul%204%20Copilot%20Prompting/skill-email-beantworter.md)
