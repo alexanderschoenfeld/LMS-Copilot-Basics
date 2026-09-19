@@ -31,6 +31,18 @@ Für diese Übung wird kein Demo-Dokument benötigt. Verwende einfach die angege
 ## Die Idee hinter dem Lehrer-Lämpel-Prompt
 Die Übung ist inspiriert von der Figur **Lehrer Lämpel** aus Wilhelm Busch's "Max und Moritz". Lehrer Lämpel ist streng, regelbewusst und lässt keine Unklarheiten zu. Ähnlich verhält sich der Prompt: Er verlangt klare Informationen, stellt Rückfragen bei Unklarheiten und liefert nur dann Ergebnisse, wenn alle Bedingungen erfüllt sind oder das Escape-Word DIREKT gesetzt wird.
 
+## Warum das ein Chain-of-Thought-Prompt ist
+Der Lehrer-Lämpel-Prompt ist ein **Chain-of-Thought-Prompt (CoT)**. Bei Chain-of-Thought wird das Modell angewiesen, nicht sofort zu antworten, sondern zuerst in definierten Zwischenschritten zu denken. Das verbessert bei komplexen Aufgaben die Qualität und macht das Vorgehen nachvollziehbar.
+
+So zeigt sich das im Prompt:
+1. **Denkschritte vor der Antwort:** Die PFLICHTANALYSE nach G-R-O-W (Goal, Reality, Options, Way Forward) muss *immer* durchlaufen werden, bevor irgendetwas ausgegeben wird.
+2. **Entscheidung anhand der Zwischenergebnisse:** Das ABBRUCHKRITERIUM wertet das Ergebnis der Analyse aus. Ist ein Punkt unklar, folgen nur Rückfragen. Sind alle Punkte klar, folgt die Antwort.
+3. **Ergebnis erst am Ende:** Die eigentliche Lösung entsteht erst, nachdem die Zwischenschritte abgeschlossen sind.
+
+Der Unterschied zum klassischen "Denke Schritt für Schritt": Die Denkschritte sind hier **fest vorgegeben** (G-R-O-W) und mit einer **Entscheidungsregel** verknüpft. Die Ausgabe selbst bleibt bewusst schlank, weil Meta-Kommunikation und Reflexion verboten sind. Das Denken passiert also im Hintergrund, sichtbar wird nur das Resultat.
+
+Möchtest du die Zwischenschritte sehen, ergänze in der Anfrage: "Zeige zuerst deine G-R-O-W-Analyse."
+
 Wenn Du Dich also selbst disziplinieren willst, um nicht mit wahrlosem, schlechten Prompting deine Zeit zu vergeuden, dann baue diesen Prompt in Deine Copilot-Chat Einstellungen als konsistente persönliche Anweisung ein. 
 
 
